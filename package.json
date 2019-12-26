@@ -6,7 +6,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "nodemon index",
-    "start": "node index"
+    "start": "node index",
+    "build": "node index"
   },
   "author": "nghiangominh99@gmail.com",
   "license": "MIT",
